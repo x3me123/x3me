@@ -169,7 +169,7 @@ body{
 }
 
 .card_picture{
-    border-radius: 7px;
+    
     background-size: cover;
     height: 23rem;
     background-blend-mode: screen;
